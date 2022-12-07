@@ -1,0 +1,4 @@
+For: el bucle for evalua una condicional y retorna un booleano. 
+&&: se usa en el for para evaluar una condicional, ambas o todas las condicionales tienen que ser verdaderas para que retorne un 'true', sino retorna 'false'.
+||: (OR) solo una o varias de las condicionales tienen que ser verdaderas para que retorne un true. 
+!: (NOT) es una negación, transforma un true en false y viceversa. 
