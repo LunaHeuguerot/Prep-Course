@@ -1,0 +1,7 @@
+Objetos: es una coleccion de propiedades (con nombre y un valor) de una misma cosa.
+Propiedades: es una asociacion entre un nombre y un valor.
+Métodos: son funciones dentro (propiedad) de los objetos
+Bucle for…in: sirve para pasar (iterar) por todas las propiedades (clave-valor) de un objeto
+Notación de puntos vs notación de corchetes: ambas sirven para acceder a una de las propiedades del objeto. 
+La notacion de puntos no sirve para propiedades de más de una palabra (se escribe objeto.propiedad), 
+la de corchetes si funciona para propiedades de más de una palabra (se escribe objeto['propiedad']) y se escribe con string ('').
