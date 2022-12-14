@@ -1,0 +1,2 @@
+* `prototype`: es una propiedad de los objetos que heredan las caracteristicas de el prototipo u objeto alfa.
+* _Constructors_ (de Clases): sirve para crear un  objeto a partir de una clase.
